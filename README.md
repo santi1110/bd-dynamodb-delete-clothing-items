@@ -1,0 +1,1 @@
+# bd-dynamodb-delete-clothing-items
