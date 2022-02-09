@@ -1,7 +1,5 @@
 ### Inactivating sold clothing items
 
-**Branch name:** dynamodbdeleteiterators-prework
-
 Expected time required: 10 min
 
 In the reading we introduced the online clothing store you're starting to sell some of your old clothes. To simplify
@@ -23,9 +21,6 @@ also includes a `saveTask()` method.
 The unit tests in `ClothingDAOTest` are set-up with a mock database so that you can test your methods offline. The
 `main()` method is set-up in `ClothingApp` so that you can connect to the real ClothingItems table and test your methods
 that way.
-
-When you've finished writing your code and testing, make sure `rde workflow run dynamodbdeleteiterators-prework-clothingitems`
-is passing and push.
 
 HINTS:
 * [The `getActiveClothingItem()` method only accepts a partition key even though the table uses a partition and sort key!](hints/hint-01.md)

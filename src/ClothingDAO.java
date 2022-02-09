@@ -1,4 +1,3 @@
-package com.amazon.ata.dynamodbdeleteiterators.prework.clothingItems;
 
 import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
 
