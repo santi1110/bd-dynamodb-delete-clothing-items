@@ -23,4 +23,4 @@ The unit tests in `ClothingDAOTest` are set-up with a mock database so that you 
 that way.
 
 HINTS:
-* [The `getActiveClothingItem()` method only accepts a partition key even though the table uses a partition and sort key!](hints/hint-01.md)
+* [The `getActiveClothingItem()` method only accepts a partition key even though the table uses a partition and sort key!](./hints/hint-01.md)
